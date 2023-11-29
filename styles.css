@@ -1,0 +1,25 @@
+
+    #buton{
+    transition: all 0.2s ease;
+    position: absolute;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 7px 20px;
+    font-size: 15px;
+    border-color: blue;
+}
+
+#buton:hover{
+    transition: all 0.2s ease;
+    background-color: white;
+    color: blue;
+}
+
+#input{
+    width: 275px;
+    height: 23px;
+    margin-top: 7px;
+}
